@@ -12,5 +12,5 @@ Aqui está definido uma breve descrição do projeto **ProjectName**.
 
 # Initial Setting
 
-1- gem install bundler
-2- bundle init
+1- gem install bundler.
+2- bundle init.
