@@ -9,3 +9,8 @@ Aqui está definido uma breve descrição do projeto **ProjectName**.
 **Capybara**.
 **BDD**.
 **Gherkin**.
+
+# Initial Setting
+
+1- gem install bundler
+2- bundle init
